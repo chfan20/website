@@ -69,5 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
- Howdy! I am currently a Ph.D. student in the Department of Civil and Environmental Engineering, Texas A&M University, supervised by Dr. Ali Mostafavi. I also closely work with Dr. Xia "Ben" Hu (TAMU), Dr. Jianxi Gao (RPI), and Dr. Ruihong Huang (TAMU) from Computer Science. 
- My research focuses on quantifying human dynamics in risky and uncertain situations and integrating artificial and human intelligence for community resilience. 
+
